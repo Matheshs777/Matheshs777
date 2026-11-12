@@ -1,6 +1,6 @@
 ## Mathesh S — Mechanical Engineering Undergraduate (SKCET, Coimbatore)
 
-*CAD, FEA/CFD Simulation & Digital Twins & Industrial IoT · [Portfolio](https://mathesh-mech.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mathesh-mech)*
+*CAD, FEA/CFD Simulation · [Portfolio](https://mathesh-mech.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mathesh-mech)*
 
 **B.E. Mechanical Engineering** · Aug 2025–Present · Coimbatore, Tamil Nadu, India · English, Tamil
 
