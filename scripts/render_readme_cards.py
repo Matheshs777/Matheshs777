@@ -314,11 +314,13 @@ REPOS = [
     ("project-vyuha", "56-part autonomous biped; proximal actuators cut distal limb inertia by over 40%.", "KPIT Sparkle 2027 · CAD", STUDIO),
     ("omni-node", "IP65 aluminum CNC retrofit enclosure; thermal FEA validated a 36.55°C peak.", "MSME 6.0 · Top 40", LEARN),
     ("offline-voice-switch", "Offline VC-02 voice control: 8 commands, 4-channel relay, under 200 ms.", "Embedded C · Team of 5", TECH),
+    ("helicopter-rotor", "255-part SolidWorks rotor head & swashplate mechanism (404 kinematic mates)", "SolidWorks · 404 Mates", STUDIO),
 ]
 
 
 def repo_card(i, name, desc, meta, color):
     delay = 4.6 + i * 0.12
+    position = i % 3
     body = f"""
 <rect width="{REPO_W}" height="{REPO_H}" rx="14" fill="{PAPER}"/>
 <g class="r" {d(delay)}>
@@ -329,7 +331,7 @@ def repo_card(i, name, desc, meta, color):
 </g>
 """
     write(f"repo-{name}.svg", svg(REPO_W, REPO_H, body, ["sans", "sans-b", "mono"], f"{name}: {desc}",
-                                  left=4 * i, right=8 - 4 * i))
+                                  left=4 * position, right=8 - 4 * position))
 
 
 def section_title(text, italic, theme):
