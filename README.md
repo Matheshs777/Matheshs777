@@ -34,4 +34,17 @@
 - **Top 40 Finalist** — MSME Idea Hackathon 6.0 · Selected for SIH 2026 (AYASK & Tarang) & Dassault AAKRUTI 2026
 - **30+ Certifications** across SolidWorks, ANSYS FEA/CFD, and engineering simulation tools
 
-**Contact:** [matheshs777@gmail.com](mailto:matheshs777@gmail.com) · [GitHub](https://github.com/Matheshs777)
+<p align="left">
+  <a href="https://www.linkedin.com/in/mathesh-mech/">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/mathesh_x_7/">
+    <img src="https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:matheshs777@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-111111?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://mathesh-mech.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
