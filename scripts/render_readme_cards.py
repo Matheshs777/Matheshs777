@@ -174,8 +174,7 @@ def hero():
   <rect class="live" x="48" y="49" width="8" height="8" rx="2" fill="{TECH}"/>
   <text x="66" y="57" font-family="{MONO}" font-size="12" letter-spacing="1" fill="{MUTED}">MECHANICAL ENGINEERING UNDERGRADUATE</text>
 </g>
-<text class="r" {d(0.15)} x="44" y="190" font-family="{SERIF}" font-size="88" letter-spacing="-2.5" fill="{INK}">Mathesh</text>
-<text class="r" {d(0.3)} x="44" y="270" font-family="{SERIF}" font-style="italic" font-size="88" letter-spacing="-2.5" fill="url(#shine)">S</text>
+<text class="r" {d(0.15)} x="44" y="230" font-family="{SERIF}" font-size="88" letter-spacing="-2.5" fill="{INK}">Mathesh <tspan font-style="italic" fill="url(#shine)">S</tspan></text>
 <g class="r" {d(0.55)}>
   {text_lines(48, 305, ["CAD, FEA/CFD Simulation &", "Edge-AI Robotics"], 21, f'font-family="{SANS}" font-size="15" font-weight="600" fill="{INK_SOFT}"')}
 </g>
