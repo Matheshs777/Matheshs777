@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://mathesh-mech.vercel.app"><img src="./cards/hero.svg" width="100%" alt="Mathesh S — Mechanical Engineering Undergraduate" /></a><br>
+<a href="https://mathesh-mech.vercel.app"><img src="./cards/hero.svg" width="100%" alt="CAD Modeling, FEA, CFD & Multidisciplinary Design. Bridging theoretical physics with functional, manufacturable designs across automotive, aerospace, and IoT-integrated systems." /></a><br>
 <img src="./cards/heatmap.svg" width="100%" alt="GitHub contribution heatmap" /><br>
 <img src="./cards/activity.svg" width="100%" alt="GitHub contribution activity" /><br>
 <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;table-layout:fixed"><tr><td width="33.333%"><a href="https://omni-node-dashboard.vercel.app/"><img src="./cards/build.svg" width="100%" alt="Recognition" /></a></td><td width="33.333%"><a href="https://ayask.vercel.app"><img src="./cards/brand.svg" width="100%" alt="Digital twin" /></a></td><td width="33.333%"><a href="https://omni-node-dashboard.vercel.app/"><img src="./cards/learn.svg" width="100%" alt="Certifications" /></a></td></tr></table><br>

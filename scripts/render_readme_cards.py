@@ -176,7 +176,7 @@ def hero():
 </g>
 <text class="r" {d(0.15)} x="44" y="230" font-family="{SERIF}" font-size="88" letter-spacing="-2.5" fill="{INK}">Mathesh <tspan font-style="italic" fill="url(#shine)">S</tspan></text>
 <g class="r" {d(0.55)}>
-  {text_lines(48, 305, ["CAD, FEA/CFD Simulation &", "Digital Twins"], 21, f'font-family="{SANS}" font-size="15" font-weight="600" fill="{INK_SOFT}"')}
+  {text_lines(48, 305, ["CAD Modeling, FEA, CFD &", "Multidisciplinary Design"], 21, f'font-family="{SANS}" font-size="15" font-weight="600" fill="{INK_SOFT}"')}
 </g>
 <g class="r" {d(0.68)}>
   {text_lines(48, 356, ["Bridging theoretical physics with functional,",
@@ -192,7 +192,7 @@ def hero():
 </g>
 """
     write("hero.svg", svg(W, h, body, ["serif", "serif-i", "sans", "mono"],
-                          "Mathesh S. Mechanical Engineering Undergraduate — CAD, FEA/CFD Simulation & Digital Twins."))
+                          "CAD Modeling, FEA, CFD & Multidisciplinary Design. Bridging theoretical physics with functional, manufacturable designs across automotive, aerospace, and IoT-integrated systems."))
 
 
 # ---- 2 · world tiles ----------------------------------------------------------
