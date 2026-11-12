@@ -8,10 +8,10 @@
 <a href="https://mathesh-mech.vercel.app"><img src="./cards/hero.svg" width="100%" alt="Mathesh S — Mechanical Engineering Undergraduate — CAD, FEA/CFD Simulation & Digital Twins." /></a><br>
 <img src="./cards/heatmap.svg" width="100%" alt="GitHub contribution graph, refreshed daily" /><br>
 <img src="./cards/activity.svg" width="100%" alt="GitHub contributions in the last 12 months, by month, with streak and busiest day" /><br>
-<a href="https://github.com/Matheshs777/omni-node"><img src="./cards/build.svg" width="33.333%" alt="Top 40 finalist at MSME Idea Hackathon 6.0" /></a><a href="https://ayask.vercel.app"><img src="./cards/brand.svg" width="33.333%" alt="465-component SolidWorks conveyor digital twin" /></a><a href="https://github.com/Matheshs777/omni-node"><img src="./cards/learn.svg" width="33.333%" alt="30 certifications across CAD, FEA/CFD and engineering software" /></a><br>
+<a href="https://omni-node-dashboard.vercel.app/"><img src="./cards/build.svg" width="33.333%" alt="Top 40 finalist at MSME Idea Hackathon 6.0" /></a><a href="https://ayask.vercel.app"><img src="./cards/brand.svg" width="33.333%" alt="465-component SolidWorks conveyor digital twin" /></a><a href="https://omni-node-dashboard.vercel.app/"><img src="./cards/learn.svg" width="33.333%" alt="30 certifications across CAD, FEA/CFD and engineering software" /></a><br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="./cards/title-coding-dark.svg" /><img src="./cards/title-coding-light.svg" width="100%" alt="Engineering projects" /></picture><br>
-<a href="https://ayask.vercel.app"><img src="./cards/repo-ayask.svg" width="33.333%" alt="AYASK — Smart India Hackathon 2026" /></a><a href="https://github.com/Matheshs777/project-vyuha"><img src="./cards/repo-project-vyuha.svg" width="33.333%" alt="Project Vyuha — KPIT Sparkle 2027" /></a><a href="https://github.com/Matheshs777/omni-node"><img src="./cards/repo-omni-node.svg" width="33.333%" alt="Omni-Node — MSME Idea Hackathon 6.0" /></a><br>
-<a href="https://github.com/Matheshs777/offline-voice-switch"><img src="./cards/repo-offline-voice-switch.svg" width="33.333%" alt="Offline Voice-Controlled Appliance Switch" /></a><a href="https://github.com/Matheshs777/helicopter-rotor"><img src="./cards/repo-helicopter-rotor.svg" width="33.333%" alt="Helicopter Rotor Mechanism — 255-component SolidWorks assembly" /></a>
+<a href="https://ayask.vercel.app"><img src="./cards/repo-ayask.svg" width="33.333%" alt="AYASK — Smart India Hackathon 2026" /></a><a href="https://vyuha-dashboard.vercel.app/"><img src="./cards/repo-project-vyuha.svg" width="33.333%" alt="Project Vyuha — KPIT Sparkle 2027" /></a><a href="https://omni-node-dashboard.vercel.app/"><img src="./cards/repo-omni-node.svg" width="33.333%" alt="Omni-Node — MSME Idea Hackathon 6.0" /></a><br>
+<a href="https://github.com/Matheshs777/offline-voice-switch"><img src="./cards/repo-offline-voice-switch.svg" width="33.333%" alt="Offline Voice-Controlled Appliance Switch" /></a><a href="https://sketchfab.com/models/ae2fba3dcabb4d818dce0946dafb9274/embed"><img src="./cards/repo-helicopter-rotor.svg" width="33.333%" alt="Helicopter Rotor Mechanism — 255-component SolidWorks assembly" /></a>
 </div>
 
 ## Core Stack
@@ -24,9 +24,9 @@
 ## Featured Projects
 
 - **[AYASK](https://ayask.vercel.app)** *(SIH 2026 Team Lead)* — 465-part SolidWorks conveyor digital twin with ESP32 Industrial IoT telemetry and sub-second fail-safe trip.
-- **Project Vyuha** *(KPIT Sparkle 2027)* — 56-part SolidWorks bipedal robot; proximal actuator design cut distal limb inertia by >40%.
-- **Omni-Node** *(MSME Idea Hackathon 6.0)* — IP65 Al 6061-T6 CNC retrofit pod (36.55°C peak FEA) with <35 ms protective feed-hold.
-- **Helicopter Rotor Mechanism** *(SolidWorks CAD)* — 255-component, 18-subassembly kinematic rotor head with 404 mates driving swashplate tilt and cyclic/collective blade pitch.
+- **[Project Vyuha](https://vyuha-dashboard.vercel.app/)** *(KPIT Sparkle 2027)* — 56-part SolidWorks bipedal robot; proximal actuator design cut distal limb inertia by >40%.
+- **[Omni-Node](https://omni-node-dashboard.vercel.app/)** *(MSME Idea Hackathon 6.0)* — IP65 Al 6061-T6 CNC retrofit pod (36.55°C peak FEA) with <35 ms protective feed-hold.
+- **[Helicopter Rotor Mechanism](https://sketchfab.com/models/ae2fba3dcabb4d818dce0946dafb9274/embed)** *(SolidWorks CAD)* — 255-component, 18-subassembly kinematic rotor head with 404 mates driving swashplate tilt and cyclic/collective blade pitch.
 - **Offline Voice Switch** *(Electronics Lead)* — Embedded C controller on Ai-Thinker VC-02 (<200 ms response, 0.5 W, zero cloud dependency).
 
 ## Highlights
