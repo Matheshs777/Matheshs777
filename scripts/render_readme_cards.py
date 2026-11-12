@@ -176,7 +176,7 @@ def hero():
 </g>
 <text class="r" {d(0.15)} x="44" y="230" font-family="{SERIF}" font-size="88" letter-spacing="-2.5" fill="{INK}">Mathesh <tspan font-style="italic" fill="url(#shine)">S</tspan></text>
 <g class="r" {d(0.55)}>
-  {text_lines(48, 305, ["CAD, FEA/CFD Simulation &", "Edge-AI Robotics"], 21, f'font-family="{SANS}" font-size="15" font-weight="600" fill="{INK_SOFT}"')}
+  {text_lines(48, 305, ["CAD, FEA/CFD Simulation &", "Digital Twins"], 21, f'font-family="{SANS}" font-size="15" font-weight="600" fill="{INK_SOFT}"')}
 </g>
 <g class="r" {d(0.68)}>
   {text_lines(48, 356, ["Bridging theoretical physics with functional,",
@@ -192,7 +192,7 @@ def hero():
 </g>
 """
     write("hero.svg", svg(W, h, body, ["serif", "serif-i", "sans", "mono"],
-                          "Mathesh S. Mechanical Engineering Undergraduate focused on CAD, FEA/CFD simulation and Edge-AI robotics."))
+                          "Mathesh S. Mechanical Engineering Undergraduate — CAD, FEA/CFD Simulation & Digital Twins."))
 
 
 # ---- 2 · world tiles ----------------------------------------------------------
@@ -310,7 +310,7 @@ def activity(data):
 # ---- 4 · repo cards -----------------------------------------------------------
 REPO_W, REPO_H = 880 / 3 - 8, 176
 REPOS = [
-    ("ayask", "465-part SolidWorks ore conveyor, ESP32 sensing, Edge-AI maintenance and a live digital twin.", "SIH 2026 · Team lead", TECH),
+    ("ayask", "465-part SolidWorks ore conveyor, ESP32 Industrial IoT telemetry, predictive maintenance and live digital twin.", "SIH 2026 · Team lead", TECH),
     ("project-vyuha", "56-part autonomous biped; proximal actuators cut distal limb inertia by over 40%.", "KPIT Sparkle 2027 · CAD", STUDIO),
     ("omni-node", "IP65 aluminum CNC retrofit enclosure; thermal FEA validated a 36.55°C peak.", "MSME 6.0 · Top 40", LEARN),
     ("offline-voice-switch", "Offline VC-02 voice control: 8 commands, 4-channel relay, under 200 ms.", "Embedded C · Team of 5", TECH),

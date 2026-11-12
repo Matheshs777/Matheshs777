@@ -1,11 +1,11 @@
 ## Mathesh S — Mechanical Engineering Undergraduate (SKCET, Coimbatore)
 
-*CAD, FEA/CFD Simulation & Edge-AI Robotics · [Portfolio](https://mathesh-mech.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mathesh-mech)*
+*CAD, FEA/CFD Simulation & Digital Twins & Industrial IoT · [Portfolio](https://mathesh-mech.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mathesh-mech)*
 
 **B.E. Mechanical Engineering** · Aug 2025–Present · Coimbatore, Tamil Nadu, India · English, Tamil
 
 <div align="center">
-<a href="https://mathesh-mech.vercel.app"><img src="./cards/hero.svg" width="100%" alt="Mathesh S — Mechanical Engineering Undergraduate focused on CAD, FEA/CFD simulation and Edge-AI robotics." /></a><br>
+<a href="https://mathesh-mech.vercel.app"><img src="./cards/hero.svg" width="100%" alt="Mathesh S — Mechanical Engineering Undergraduate — CAD, FEA/CFD Simulation & Digital Twins." /></a><br>
 <img src="./cards/heatmap.svg" width="100%" alt="GitHub contribution graph, refreshed daily" /><br>
 <img src="./cards/activity.svg" width="100%" alt="GitHub contributions in the last 12 months, by month, with streak and busiest day" /><br>
 <a href="https://github.com/Matheshs777/omni-node"><img src="./cards/build.svg" width="33.333%" alt="Top 40 finalist at MSME Idea Hackathon 6.0" /></a><a href="https://ayask.vercel.app"><img src="./cards/brand.svg" width="33.333%" alt="465-component SolidWorks conveyor digital twin" /></a><a href="https://github.com/Matheshs777/omni-node"><img src="./cards/learn.svg" width="33.333%" alt="30 certifications across CAD, FEA/CFD and engineering software" /></a><br>
@@ -23,7 +23,7 @@
 
 ## Featured Projects
 
-- **[AYASK](https://ayask.vercel.app)** *(SIH 2026 Team Lead)* — 465-part SolidWorks conveyor digital twin with ESP32 edge-AI telemetry and sub-second fail-safe trip.
+- **[AYASK](https://ayask.vercel.app)** *(SIH 2026 Team Lead)* — 465-part SolidWorks conveyor digital twin with ESP32 Industrial IoT telemetry and sub-second fail-safe trip.
 - **Project Vyuha** *(KPIT Sparkle 2027)* — 56-part SolidWorks bipedal robot; proximal actuator design cut distal limb inertia by >40%.
 - **Omni-Node** *(MSME Idea Hackathon 6.0)* — IP65 Al 6061-T6 CNC retrofit pod (36.55°C peak FEA) with <35 ms protective feed-hold.
 - **Helicopter Rotor Mechanism** *(SolidWorks CAD)* — 255-component, 18-subassembly kinematic rotor head with 404 mates driving swashplate tilt and cyclic/collective blade pitch.
